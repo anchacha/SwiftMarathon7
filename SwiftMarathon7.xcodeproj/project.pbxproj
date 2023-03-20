@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F0D25AD29C88A08004F30E2 /* header-image.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F0D25AC29C88A08004F30E2 /* header-image.jpg */; };
 		2FAF891E29C87A90003084DD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FAF891D29C87A90003084DD /* AppDelegate.swift */; };
 		2FAF892029C87A90003084DD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FAF891F29C87A90003084DD /* SceneDelegate.swift */; };
 		2FAF892229C87A90003084DD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FAF892129C87A90003084DD /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2F0D25AC29C88A08004F30E2 /* header-image.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "header-image.jpg"; sourceTree = "<group>"; };
 		2FAF891A29C87A90003084DD /* SwiftMarathon7.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftMarathon7.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FAF891D29C87A90003084DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2FAF891F29C87A90003084DD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				2FAF892629C87A90003084DD /* Assets.xcassets */,
 				2FAF892829C87A90003084DD /* LaunchScreen.storyboard */,
 				2FAF892B29C87A90003084DD /* Info.plist */,
+				2F0D25AC29C88A08004F30E2 /* header-image.jpg */,
 			);
 			path = SwiftMarathon7;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F0D25AD29C88A08004F30E2 /* header-image.jpg in Resources */,
 				2FAF892A29C87A90003084DD /* LaunchScreen.storyboard in Resources */,
 				2FAF892729C87A90003084DD /* Assets.xcassets in Resources */,
 				2FAF892529C87A90003084DD /* Main.storyboard in Resources */,
